@@ -1,1 +1,1 @@
-# -Benford-and-Beyond
+# Benford and Beyond
